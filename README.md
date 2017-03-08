@@ -5,7 +5,7 @@ ada yg mau rapihin hehe absensi sebenernya ini pake sms gateway, cuman ya modemn
 USERNAME : <b>admin</b><br/>
 PASSWORD : <b>smkpasim123</b><br/>
 <br/>
-http://localhost/absen/portal/akses/login.php
+http://localhost/absen/portal/akses/login.php<br/>
 Untuk username guru piket :
 <br/>Username : PKT-001<br/>
 Password : 1<br/>
