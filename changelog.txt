@@ -1,0 +1,15 @@
+#ABSENSI-IntegratedBySMSGateway V.1
+
+21 Juli 2016
+- Fix save mengajar - GURU
+- Redesign form Jurusan
+- Add Semester to Add Mengajar - GURU
+- Fix Save Guru Piket
+- Fix Save Sekretaris
+
+26 Juli 2016
+- Add a signature verification GURU PIKET, BK, GURU MAPEL
+
+9 Agustus 2016
+- Fix Kelas from & view @Absen mata pelajaran
+- Fix (Again) Save mengajar @Guru
